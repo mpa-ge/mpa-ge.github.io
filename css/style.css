@@ -1643,14 +1643,14 @@ header + header {
 	font-family: Meiryo UI;
 	letter-spacing: 3.5px;
 	text-shadow: 
-		2px  2px 9px #ff8c00,
-		-2px  2px 9px #ff8c00,
-		2px -2px 9px #ff8c00,
-		-2px -2px 9px #ff8c00,
-		2px  0px 9px #ff8c00,
-		0px  2px 9px #ff8c00,
-		-2px  0px 9px #ff8c00,
-		0px -2px 9px #ff8c00;
+		2px  2px 9px #ff0000,
+		-2px  2px 9px #ff0000,
+		2px -2px 9px #ff0000,
+		-2px -2px 9px #ff0000,
+		2px  0px 9px #ff0000,
+		0px  2px 9px #ff0000,
+		-2px  0px 9px #ff0000,
+		0px -2px 9px #ff0000;
 }
 
 h1 .logo {
@@ -1660,14 +1660,14 @@ h1 .logo {
 	font-family: Meiryo UI;
 	letter-spacing: 3.5px;
 	text-shadow: 
-		2px  2px 9px #ff8c00,
-		-2px  2px 9px #ff8c00,
-		2px -2px 9px #ff8c00,
-		-2px -2px 9px #ff8c00,
-		2px  0px 9px #ff8c00,
-		0px  2px 9px #ff8c00,
-		-2px  0px 9px #ff8c00,
-		0px -2px 9px #ff8c00;
+		2px  2px 9px #ff0000,
+		-2px  2px 9px #ff0000,
+		2px -2px 9px #ff0000,
+		-2px -2px 9px #ff0000,
+		2px  0px 9px #ff0000,
+		0px  2px 9px #ff0000,
+		-2px  0px 9px #ff0000,
+		0px -2px 9px #ff0000;
 }
 
 :root{
@@ -10248,6 +10248,10 @@ table td {
 .says p {
   margin: 0;
   padding: 0;
+}
+
+.svg-red {
+	stroke: ff0000;
 }
 
 /* -- plus.css -- */
