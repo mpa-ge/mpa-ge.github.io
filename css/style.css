@@ -1570,7 +1570,7 @@ footer a {
 }
 
 footer a:hover {
-	color: #007bff;
+	color: #ff0000;
 }
 
 footer .active a {
@@ -1607,7 +1607,7 @@ header .bg-dark .navbar-nav .nav-link {
 }
 
 header .bg-dark .navbar-nav .nav-link:hover {
-	color: #007bff;
+	color: #ff0000;
 }
 
 header .bg-dark .navbar-nav .active .nav-link {
